@@ -1,0 +1,13 @@
+.main .header-appbar{
+    box-shadow: 0 2px 10px black;
+    height: 80px;
+}
+
+.main .header-brightness{
+    margin-top:25px;
+    cursor:pointer;
+}
+
+.main .header-btn{
+    margin-top:25px;
+}
